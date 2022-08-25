@@ -1,0 +1,9 @@
+{
+	"default":{
+		"host":"ftp.domain.com",
+		"username":"ftp@domain.com",
+		"password":"··········",
+		"path":"/",
+		"upload_on_save":true
+	}
+}

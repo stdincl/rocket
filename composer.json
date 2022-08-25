@@ -1,0 +1,25 @@
+{
+    "name": "stdincl/rocket",
+    "authors": [
+        {
+            "name": "STDin",
+            "email": "diego.rodriguez.gomez@stdin.cl"
+        }
+    ],
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/stdincl/bridge.git"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "rocket\\":"src/"
+        }
+    },
+    "require": {
+        "php": "^7.2",
+        "composer/composer": "^2.4",
+        "stdincl/bridge": "dev-main"
+    }
+}

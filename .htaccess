@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^/?$ /site/modules/home/view.php [QSA,L]

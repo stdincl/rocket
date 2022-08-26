@@ -1,6 +1,6 @@
 composer.phar
 /vendor/
 /node_modules/
-/bower_components/
+ftpsync.settings
 .DS_Store
 /__MACOSX/

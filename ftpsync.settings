@@ -1,8 +1,8 @@
 {
 	"default":{
-		"host":"ftp.domain.com",
-		"username":"ftp@domain.com",
-		"password":"··········",
+		"host":"ftp.stdin.cl",
+		"username":"rocket@stdin.cl",
+		"password":"iv2R))j};DQa",
 		"path":"/",
 		"upload_on_save":true
 	}

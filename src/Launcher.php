@@ -32,8 +32,8 @@ class Launcher extends Controller {
 		<link rel="stylesheet" type="text/css" href="/node_modules/animate.css/animate.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/protip/protip.min.css" />
 		<script type="text/javascript" src="/node_modules/protip/protip.min.js"></script>
-		<script type="text/javascript" src="/io/repository-<?php echo Launcher::compilation(); ?>.js"></script>
-		<script type="text/javascript" src="/io/lang.js"></script>
+		<script type="text/javascript" src="/bridge/repository-<?php echo Launcher::compilation(); ?>.js"></script>
+		<script type="text/javascript" src="/bridge/lang.js"></script>
 		<?php
 	}
 	public static function favicon(){

@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "units": "https://gihub.com/stdincl/units/"
+    "units": "https://github.com/stdincl/units"
   }
 }

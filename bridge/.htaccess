@@ -6,4 +6,5 @@ RewriteEngine On
 RewriteRule ^lang-([A-Za-z\-]+)\.js$ ./translator.php?user-lang=$1 [QSA,L]
 RewriteRule ^lang\.js$ ./translator.php [QSA,L]
 RewriteRule ^([A-Za-z0-9_]+)/([A-Za-z0-9_]+)/[0-9]+\.json$ ./bridge.php?_bridge_framework_class_name_key=$1&_bridge_framework_method_class_name_key=$2 [QSA,L]
+RewriteRule ^([A-Za-z0-9_]+)/([A-Za-z0-9_]+)/$ ./bridge.php?_bridge_framework_class_name_key=$1&_bridge_framework_method_class_name_key=$2 [QSA,L]
 RewriteRule ^repository-([0-9]+)\.js$ ./repository.php [QSA,L]

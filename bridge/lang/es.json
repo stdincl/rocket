@@ -2,6 +2,7 @@
 	".denied":"Denegado",
 	".log-out":"Su sesión ha caducado",
 	".invalid-response":"Respuesta sin formato",
+	".service-unavailable":"El servicio no está disponible temporalmente",
 	".control-not-found":"No existe el controlador",
 	".method-not-found":"No existe el metodo (<:method-name:>)",
 	".facebook-api-fail":"Error de configuracion de Facebook",

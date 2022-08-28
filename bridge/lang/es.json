@@ -3,7 +3,7 @@
 	".log-out":"Su sesión ha caducado",
 	".invalid-response":"Respuesta sin formato",
 	".control-not-found":"No existe el controlador",
-	".method-not-found":"No existe el metodo",
+	".method-not-found":"No existe el metodo (<:method-name:>)",
 	".facebook-api-fail":"Error de configuracion de Facebook",
 	".facebook-api-fail":"Error de configuracion de Facebook",
 	".email-format-invalid":"Formato de e-mail invalido",
@@ -14,5 +14,5 @@
 	".database-connection-fails":"No se puede conectar a la base de datos",
 	".database-not-found":"No se puede seleccionar la base de datos",
 	".not-found":"No encontrado",
-	".select-file":"Seleccionar archivo"
+	".select-file":"Seleccionar archivo <:max:>"
 }

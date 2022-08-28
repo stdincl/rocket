@@ -12,8 +12,6 @@ class Launcher extends Controller {
 		?>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 		<script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/iox.js/dist/iox.css" />
-		<script type="text/javascript" src="/node_modules/iox.js/dist/iox.js"></script>
 		<link rel="stylesheet" type="text/css" href="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.css" />
 		<script type="text/javascript" src="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.js"></script>
 		<script type="text/javascript" src="/node_modules/gmap3/dist/gmap3.min.js"></script>
@@ -34,6 +32,9 @@ class Launcher extends Controller {
 		<script type="text/javascript" src="/node_modules/protip/protip.min.js"></script>
 		<script type="text/javascript" src="/bridge/repository-<?php echo Launcher::compilation(); ?>.js"></script>
 		<script type="text/javascript" src="/bridge/lang.js"></script>
+		<script type="text/javascript" src="/node_modules/units/dist/units.prototypes.js"></script>
+		<script type="text/javascript" src="/node_modules/units/dist/units.js"></script>
+		<link rel="stylesheet" type="text/css" href="/node_modules/units/dist/units.css" />
 		<?php
 	}
 	public static function favicon(){

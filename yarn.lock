@@ -208,7 +208,7 @@ trumbowyg@^2.25.1:
 
 "units@https://github.com/stdincl/units/":
   version "1.0.0"
-  resolved "https://github.com/stdincl/units/#d41ca73b8de87c46bfcfee767fedea88d2c81d7e"
+  resolved "https://github.com/stdincl/units/#4d7e81dddb8c9c0a18ec74a1923a8c0a083d9ecf"
   dependencies:
     "@chenfengyuan/datepicker" "^1.0.10"
     "@editorjs/editorjs" "^2.25.0"

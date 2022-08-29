@@ -11,30 +11,31 @@ class Launcher extends Controller {
 	public static function headers(){
 		?>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-		<script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/node_modules/@fortawesome/fontawesome-free/css/all.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/units/dist/units.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/animate.css/animate.min.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/trumbowyg/dist/ui/trumbowyg.min.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/simplebar/dist/simplebar.min.css" />
+		<link rel="stylesheet" type="text/css" href="/node_modules/protip/protip.min.css" />
+		<script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
 		<script type="text/javascript" src="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.js"></script>
 		<script type="text/javascript" src="/node_modules/gmap3/dist/gmap3.min.js"></script>
 		<script type="text/javascript" src="/node_modules/inputmask/dist/jquery.inputmask.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery-maskmoney/dist/jquery.maskMoney.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery.nicescroll/dist/jquery.nicescroll.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery.rut/jquery.rut.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
 		<script type="text/javascript" src="/node_modules/owl.carousel/dist/owl.carousel.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/simplebar/dist/simplebar.min.css" />
 		<script type="text/javascript" src="/node_modules/simplebar/dist/simplebar.min.js"></script>
 		<script type="text/javascript" src="/node_modules/socket.io-client/dist/socket.io.min.js"></script>
 		<script type="text/javascript" src="/node_modules/tablesorter/dist/js/jquery.tablesorter.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/trumbowyg/dist/ui/trumbowyg.min.css" />
 		<script type="text/javascript" src="/node_modules/trumbowyg/dist/trumbowyg.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/animate.css/animate.min.css" />
-		<link rel="stylesheet" type="text/css" href="/node_modules/protip/protip.min.css" />
 		<script type="text/javascript" src="/node_modules/protip/protip.min.js"></script>
-		<script type="text/javascript" src="/bridge/repository-<?php echo Launcher::compilation(); ?>.js"></script>
-		<script type="text/javascript" src="/bridge/lang.js"></script>
 		<script type="text/javascript" src="/node_modules/units/dist/units.prototypes.js"></script>
 		<script type="text/javascript" src="/node_modules/units/dist/units.js"></script>
-		<link rel="stylesheet" type="text/css" href="/node_modules/units/dist/units.css" />
+		<script type="text/javascript" src="/bridge/repository-<?php echo Launcher::compilation(); ?>.js"></script>
+		<script type="text/javascript" src="/bridge/lang.js"></script>
 		<?php
 	}
 	public static function favicon(){

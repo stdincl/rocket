@@ -1057,7 +1057,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stdincl/bridge.git",
-                "reference": "c302fb3fa524b521aec4e199a724536489a9a914"
+                "reference": "8b8f37835a0db2417322831621e5a645c1b09723"
             },
             "require": {
                 "composer/composer": "^2.0",
@@ -1077,7 +1077,7 @@
                 }
             ],
             "description": "Bridge to connect web apps with PHP",
-            "time": "2022-08-28T16:24:55+00:00"
+            "time": "2022-08-29T15:22:07+00:00"
         },
         {
             "name": "symfony/console",

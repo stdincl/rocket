@@ -6,7 +6,7 @@ use stdincl\bridge\Controller;
 
 class Launcher extends Controller {
 	public static function sitename(){
-		return 'Nuevo sitio';
+		return 'Rocket';
 	}
 	public static function headers(){
 		?>

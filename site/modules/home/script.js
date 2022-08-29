@@ -4,7 +4,10 @@
 			console.log('response');
 			console.log(response);
 		}).on('error',(e,error,error_code)=>{
-			console.log('error: '+error+'>'+error_code);
+			Units.alert({
+				title:'Error',
+				message:error
+			});
 		}).on('progress',function(e,progress){
 			console.log('progress:'+progress);
 		});

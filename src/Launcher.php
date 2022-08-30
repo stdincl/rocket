@@ -19,6 +19,7 @@ class Launcher extends Controller {
 		<link rel="stylesheet" type="text/css" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/simplebar/dist/simplebar.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/protip/protip.min.css" />
+		<script type="text/javascript" src="/node_modules/feather-icons/dist/feather.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
 		<script type="text/javascript" src="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.js"></script>
 		<script type="text/javascript" src="/node_modules/gmap3/dist/gmap3.min.js"></script>

@@ -219,9 +219,9 @@ trumbowyg@^2.25.1:
   resolved "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.25.2.tgz#9f5f4b37ff4eddd6983d546dfe7f10b5c900aeb6"
   integrity sha512-wpWZzvmYgDHBiDBEWZ+YrYfeWmWdwAwudb1mNquRX7VpVqbzetNfrM307E1qgq36v+Gviu4r1V9ITFD8zZvmhg==
 
-"units@https://github.com/stdincl/units/":
-  version "1.0.0"
-  resolved "https://github.com/stdincl/units/#d460daee969318d566fea5d40ba7ce01a52bfdc1"
+"units@https://github.com/stdincl/units/#2.0.0":
+  version "2.0.0"
+  resolved "https://github.com/stdincl/units/#fd71975b389fad30567d0861e6c217d43794441b"
   dependencies:
     "@chenfengyuan/datepicker" "^1.0.10"
     "@editorjs/editorjs" "^2.25.0"

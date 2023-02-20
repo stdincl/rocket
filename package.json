@@ -1,11 +1,12 @@
 {
   "name": "rocket",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/stdincl/rocket/",
   "author": "STDin <diego.rodriguez.gomez@stdin.cl>",
   "license": "MIT",
   "dependencies": {
-    "units": "https://github.com/stdincl/units/#2.0.0"
+    "units": "https://github.com/stdincl/units/#2.0.0",
+    "stdin": "https://github.com/stdincl/stdin/#1.0.4"
   }
 }

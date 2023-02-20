@@ -13,7 +13,6 @@ class Launcher extends Controller {
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/@fortawesome/fontawesome-free/css/all.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.css" />
-		<link rel="stylesheet" type="text/css" href="/node_modules/units/dist/units.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/animate.css/animate.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/trumbowyg/dist/ui/trumbowyg.min.css" />
 		<link rel="stylesheet" type="text/css" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
@@ -33,8 +32,10 @@ class Launcher extends Controller {
 		<script type="text/javascript" src="/node_modules/tablesorter/dist/js/jquery.tablesorter.min.js"></script>
 		<script type="text/javascript" src="/node_modules/trumbowyg/dist/trumbowyg.min.js"></script>
 		<script type="text/javascript" src="/node_modules/protip/protip.min.js"></script>
-		<script type="text/javascript" src="/node_modules/units/dist/units.prototypes.js"></script>
-		<script type="text/javascript" src="/node_modules/units/dist/units.js"></script>
+
+		<link rel="stylesheet" type="text/css" href="/node_modules/stdin/dist/stdin.css" />
+		<script type="text/javascript" src="/node_modules/stdin/dist/stdin.js"></script>
+
 		<script type="text/javascript" src="/bridge/repository-<?php echo Launcher::compilation(); ?>.js"></script>
 		<script type="text/javascript" src="/bridge/lang.js"></script>
 		<?php

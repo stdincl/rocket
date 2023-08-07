@@ -21,6 +21,7 @@ class Launcher extends Controller {
 		<script type="text/javascript" src="/node_modules/feather-icons/dist/feather.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery/dist/jquery.min.js"></script>
 		<script type="text/javascript" src="/node_modules/@chenfengyuan/datepicker/dist/datepicker.min.js"></script>
+		<script type="text/javascript" src="/node_modules/@chenfengyuan/datepicker/i18n/datepicker.es-ES.js"></script>
 		<script type="text/javascript" src="/node_modules/gmap3/dist/gmap3.min.js"></script>
 		<script type="text/javascript" src="/node_modules/inputmask/dist/jquery.inputmask.min.js"></script>
 		<script type="text/javascript" src="/node_modules/jquery-maskmoney/dist/jquery.maskMoney.min.js"></script>

@@ -20,6 +20,6 @@
     "require": {
         "php": "^7.2",
         "composer/composer": "^2.4",
-        "stdincl/bridge": "2.0.5"
+        "stdincl/bridge": "*"
     }
 }

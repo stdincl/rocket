@@ -52,6 +52,20 @@
 			"comercio":""
 		}
 	},
+	"getnet":{
+		"maxretries":3,
+		"mode":"integration",
+		"integration":{
+			"url":"https://checkout.test.getnet.cl",
+			"login":"7ffbb7bf1f7361b1200b2e8d74e1d76f",
+			"trankey":"SnZP3D63n3I9dH9O"
+		},
+		"production":{
+			"url":"https://checkout.getnet.cl",
+			"login":"",
+			"trankey":""
+		}
+	},
 	"facebook":{
 		"app":{
 			"id":"",

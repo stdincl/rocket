@@ -371,9 +371,9 @@ socket.io-parser@~4.2.0:
     "@socket.io/component-emitter" "~3.1.0"
     debug "~4.3.1"
 
-"stdin@https://github.com/stdincl/stdin/#1.0.4":
-  version "1.0.4"
-  resolved "https://github.com/stdincl/stdin/#89fd6c61ff2d4776e903c68ff4fbbee27cc238f9"
+"stdin@https://github.com/stdincl/stdin/#1.3.5":
+  version "1.3.5"
+  resolved "https://github.com/stdincl/stdin/#cafed0776fa99a86d94132e9dcadb5a9dd465aca"
   dependencies:
     "@chenfengyuan/datepicker" "^1.0.10"
     "@editorjs/editorjs" "^2.25.0"
@@ -407,30 +407,6 @@ trumbowyg@^2.25.1:
   version "2.25.2"
   resolved "https://registry.yarnpkg.com/trumbowyg/-/trumbowyg-2.25.2.tgz#9f5f4b37ff4eddd6983d546dfe7f10b5c900aeb6"
   integrity sha512-wpWZzvmYgDHBiDBEWZ+YrYfeWmWdwAwudb1mNquRX7VpVqbzetNfrM307E1qgq36v+Gviu4r1V9ITFD8zZvmhg==
-
-"units@https://github.com/stdincl/units/#2.0.0":
-  version "2.0.0"
-  resolved "https://github.com/stdincl/units/#fd71975b389fad30567d0861e6c217d43794441b"
-  dependencies:
-    "@chenfengyuan/datepicker" "^1.0.10"
-    "@editorjs/editorjs" "^2.25.0"
-    "@fortawesome/fontawesome-free" "^5.15.4"
-    animate.css "^4.1.1"
-    feather-icons "^4.29.0"
-    gmap3 "^7.2.0"
-    inputmask "^5.0.7"
-    jquery "^3.6.0"
-    jquery-maskmoney "^3.0.2"
-    jquery-ui "^1.13.1"
-    jquery.nicescroll "^3.7.6"
-    jquery.rut "^1.1.2"
-    moment "^2.29.1"
-    owl.carousel "^2.3.4"
-    protip "^1.4.21"
-    simplebar "^5.3.6"
-    socket.io-client "^4.4.1"
-    tablesorter "^2.31.3"
-    trumbowyg "^2.25.1"
 
 ws@~8.2.3:
   version "8.2.3"

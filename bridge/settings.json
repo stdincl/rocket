@@ -6,7 +6,8 @@
 		"hostname":"localhost",
 		"database":"",
 		"username":"",
-		"password":""
+		"password":"",
+		"encoding":""
 	},
 	"socket":{
 		"server":"",

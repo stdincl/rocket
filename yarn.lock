@@ -371,9 +371,9 @@ socket.io-parser@~4.2.0:
     "@socket.io/component-emitter" "~3.1.0"
     debug "~4.3.1"
 
-"stdin@https://github.com/stdincl/stdin/#1.3.5":
-  version "1.3.5"
-  resolved "https://github.com/stdincl/stdin/#cafed0776fa99a86d94132e9dcadb5a9dd465aca"
+"stdin@https://github.com/stdincl/stdin/#2.0.0":
+  version "2.0.0"
+  resolved "https://github.com/stdincl/stdin/#53be31016efd38724c75d87dbf8998f8a0c32bdf"
   dependencies:
     "@chenfengyuan/datepicker" "^1.0.10"
     "@editorjs/editorjs" "^2.25.0"

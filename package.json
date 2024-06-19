@@ -6,6 +6,6 @@
   "author": "STDin <diego.rodriguez.gomez@stdin.cl>",
   "license": "MIT",
   "dependencies": {
-    "stdin": "https://github.com/stdincl/stdin/#1.3.5"
+    "stdin": "https://github.com/stdincl/stdin/#2.0.0"
   }
 }
